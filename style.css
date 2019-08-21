@@ -30,7 +30,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat
 }
-video {
+iframe {
     display: block;
     margin: 0 auto;
 }
